@@ -1,0 +1,15 @@
+
+
+=====STRUK PEMBELIAN=====
+pelanggan: sultan
+Total Keseluruhan: Rp 91000
+Uang Diberikan: Rp 200000
+Kembalian: Rp 109000
+=============================
+
+=====STRUK PEMBELIAN=====
+pelanggan: sulta
+Total Keseluruhan: Rp 110000
+Uang Diberikan: Rp 150000
+Kembalian: Rp 40000
+=============================
